@@ -1,1 +1,1 @@
-#This is my locale repository
+# This is my locale repository
